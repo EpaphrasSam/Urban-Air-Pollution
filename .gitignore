@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files
+*.pkl
+*.model
+catboost_info/
+
+# Large CSV files (uncomment if you want to exclude)
+# *.csv
+
+# Local development settings
+.env
+
+# Logs and temporary files
+logs/
+temp/
